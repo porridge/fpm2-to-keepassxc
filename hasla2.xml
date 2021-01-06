@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<FPM full_version="00.75.00" min_version="00.75.00" display_version="0.75">
+  <KeyInfo cipher="none"/>
+  <LauncherList>
+    <LauncherItem>
+      <title>Web</title>
+      <cmdline>firefox "$a"</cmdline>
+      <copy_user>0</copy_user>
+      <copy_password>0</copy_password>
+    </LauncherItem>
+    <LauncherItem>
+      <title>ssh</title>
+      <cmdline>gnome-terminal -e 'ssh $a -l $u'</cmdline>
+      <copy_user>0</copy_user>
+      <copy_password>1</copy_password>
+    </LauncherItem>
+    <LauncherItem>
+      <title>Generic Command</title>
+      <cmdline>$a</cmdline>
+      <copy_user>0</copy_user>
+      <copy_password>0</copy_password>
+    </LauncherItem>
+  </LauncherList>
+  <PasswordList>
+    <PasswordItem>
+      <title/>
+      <user>me@gmail.com</user>
+      <url>somesite.pl</url>
+      <password>fakepasspass124$$$$</password>
+      <notes>
+	      tralala
+	      bum cyk 9
+	      cyk
+      </notes>
+      <category/>
+      <launcher/>
+    </PasswordItem>
+  </PasswordList>
+</FPM>
