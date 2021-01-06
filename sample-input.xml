@@ -22,6 +22,7 @@
     </LauncherItem>
   </LauncherList>
   <PasswordList>
+
     <PasswordItem>
       <title/>
       <user>me@gmail.com</user>
@@ -35,5 +36,20 @@
       <category/>
       <launcher/>
     </PasswordItem>
+
+    <PasswordItem>
+  <title>blabla</title>
+      <user>she@gmail.com</user>
+      <url>somesite.com</url>
+      <password>fakePASSPass124$$$$</password>
+      <notes>
+	      hopsa hopsa
+	      trala
+	      la !@$%223
+      </notes>
+      <category/>
+      <launcher/>
+    </PasswordItem>
+
   </PasswordList>
 </FPM>
